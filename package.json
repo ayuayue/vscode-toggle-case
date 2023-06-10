@@ -2,7 +2,7 @@
   "name": "vscode-toggle-case",
   "displayName": "vscode-toggle-case",
   "description": "ctrl+shift+u toggle upper or lower",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.78.0"
   },
